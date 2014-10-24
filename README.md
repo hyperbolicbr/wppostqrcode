@@ -1,4 +1,4 @@
-wppostqrcode
+WP Post QR Code
 ============
 
-Generate a QR Code for each post type in post edit screen
+WP Post QR Code is a Wordpress plugin that generate a QR Code for each post type in post edit screen
